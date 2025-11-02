@@ -1,1 +1,0 @@
-# CRM_application_for_Jewel_Management
